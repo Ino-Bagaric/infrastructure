@@ -1,0 +1,7 @@
+{
+    "targets": [
+        "git@github.com:Southclaws/infrastructure"
+    ],
+    "check_interval": "1s",
+    "cache_directory": "./cache"
+}
